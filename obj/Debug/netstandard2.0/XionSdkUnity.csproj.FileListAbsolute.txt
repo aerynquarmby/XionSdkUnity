@@ -1,0 +1,5 @@
+/Users/aerynquarmby/Desktop/FPS Microgame Xion Demo/XionSdkUnity/obj/Debug/netstandard2.0/XionSdkUnity.csproj.AssemblyReference.cache
+/Users/aerynquarmby/Desktop/FPS Microgame Xion Demo/XionSdkUnity/obj/Debug/netstandard2.0/XionSdkUnity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aerynquarmby/Desktop/FPS Microgame Xion Demo/XionSdkUnity/obj/Debug/netstandard2.0/XionSdkUnity.AssemblyInfoInputs.cache
+/Users/aerynquarmby/Desktop/FPS Microgame Xion Demo/XionSdkUnity/obj/Debug/netstandard2.0/XionSdkUnity.AssemblyInfo.cs
+/Users/aerynquarmby/Desktop/FPS Microgame Xion Demo/XionSdkUnity/obj/Debug/netstandard2.0/XionSdkUnity.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "xWnEfCZ1o2sgRgq6wpFWhMZXM4BssQLvAQA3vIjhJqtzkWmAW9qFyilzXhHBf9X45kz17K/6bPniSJ9+/9GD/Q==",
+  "success": true,
+  "projectFilePath": "/Users/aerynquarmby/Desktop/FPS Microgame Xion Demo/XionSdkUnity/XionSdkUnity.csproj",
+  "expectedPackageFiles": [
+    "/Users/aerynquarmby/.nuget/packages/microsoft.aspnet.webapi.client/5.2.9/microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
+    "/Users/aerynquarmby/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/aerynquarmby/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/aerynquarmby/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/aerynquarmby/.nuget/packages/newtonsoft.json.bson/1.0.1/newtonsoft.json.bson.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
